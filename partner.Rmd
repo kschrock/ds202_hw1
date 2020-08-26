@@ -1,0 +1,13 @@
+---
+title: "partner.Rmd"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## 1. Partner's name: Kordell Scrock, username: kschrock
+## 2. Most recent commit: "First commit" ; commit ID:ec9e924958444cc9a9e99826fcad0e67d5a7de43
+## 3. There was an error. "Could not fetch https://bluenote.world/uploads/content/_1200x1200_fit_center-center_85_none/pic-1.png" The sent me to a private server where I could not access the image.
+## 4. I had no difficulties other than the image failing to load, which prevented me from knitting his hw1.Rmd
